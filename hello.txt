@@ -1,2 +1,2 @@
 hello world
-checkout hot-fix
+checkout hot-fix 0.0.2
